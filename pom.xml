@@ -23,7 +23,7 @@
         <jaxb-impl.version>4.0.8</jaxb-impl.version>
         <lombok.version>1.18.46</lombok.version>
         <pico-cli.version>4.7.7</pico-cli.version>
-        <slf4j.version>2.0.17</slf4j.version>
+        <slf4j.version>2.0.18</slf4j.version>
         <!-- Test Dependencies -->
         <assertj.version>3.27.3</assertj.version>
         <junit.version>6.0.3</junit.version>
