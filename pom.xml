@@ -32,7 +32,7 @@
         <maven-antrun-plugin.version>3.1.0</maven-antrun-plugin.version>
         <maven-compiler-plugin.version>3.15.0</maven-compiler-plugin.version>
         <maven-exec-plugin.version>3.5.0</maven-exec-plugin.version>
-        <maven-jar-plugin.version>3.5.0</maven-jar-plugin.version>
+        <maven-jar-plugin.version>3.5.1</maven-jar-plugin.version>
         <maven-shade-plugin.version>3.6.2</maven-shade-plugin.version>
         <maven-jaxb2-plugin.version>3.3.0</maven-jaxb2-plugin.version>
         <maven-jaxb-plugin.version>4.0.16</maven-jaxb-plugin.version>
