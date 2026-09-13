@@ -18,7 +18,7 @@
         <imageName>mdg</imageName>
         <mainClass>nl.onnoh.mdg.GenerateDocumentation</mainClass>
         <!-- Code Dependencies -->
-        <freemarker.version>2.3.34</freemarker.version>
+        <freemarker.version>2.3.35</freemarker.version>
         <jaxb-api.version>4.0.5</jaxb-api.version>
         <jaxb-impl.version>4.0.9</jaxb-impl.version>
         <lombok.version>1.18.46</lombok.version>
