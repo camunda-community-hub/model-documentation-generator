@@ -371,30 +371,6 @@
                     </plugin>
 
                     <plugin>
-                        <groupId>nl.onnoh.annotation.maven.plugin</groupId>
-                        <artifactId>annotation-plugin</artifactId>
-                        <version>0.0.1-SNAPSHOT</version>
-                        <executions>
-                            <execution>
-                                <goals>
-                                    <goal>generate-annotations</goal>
-                                </goals>
-                            </execution>
-                        </executions>
-                        <configuration>
-                            <outputDirectory>
-                                ${project.build.directory}/generated-sources/xjc/nl/onnoh/baton/bpmn
-                            </outputDirectory>
-                            <annotations>
-                                <field>@ReflectionHint</field>
-                            </annotations>
-                            <imports>
-                                <field>io.goodforgod.graalvm.hint.annotation.ReflectionHint</field>
-                            </imports>
-                        </configuration>
-                    </plugin>
-
-                    <plugin>
                         <groupId>org.jvnet.jaxb</groupId>
                         <artifactId>jaxb-maven-plugin</artifactId>
                         <version>${maven-jaxb-plugin.version}</version>
